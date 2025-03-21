@@ -1,5 +1,17 @@
-![image](https://github.com/user-attachments/assets/f1684496-39b6-4c67-84bb-8962dc880342)
+# Home Screen
 
+![Large Image](https://github.com/user-attachments/assets/f1684496-39b6-4c67-84bb-8962dc880342)
+
+## Themes
+
+### Theme 1: Cool Blue
+<img src="https://github.com/user-attachments/assets/b15ceeac-f7ab-4ef3-bc67-82559ad5a2af" width="200">
+
+### Theme 2: Warm Orange
+<img src="https://github.com/user-attachments/assets/916c59fc-7c87-41f6-b83d-bfd9d660cb47" width="200">
+
+### Theme 3: Vibrant Purple
+<img src="https://github.com/user-attachments/assets/ea294a6c-2ce0-426f-9641-e42bf7af125a" width="200">
 
 # Panda Virtual Assistant
 
