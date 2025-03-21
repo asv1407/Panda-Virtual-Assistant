@@ -13,7 +13,8 @@ To ensure Panda Virtual Assistant runs smoothly, install the required Python mod
 Modules which you have to install in Python:
 >>>
 ```bash
-pip install beautifulsoup4 blinker certifi charset-normalizer click colorama comtypes Flask Flask-Cors idna imagetk itsdangerous Jinja2 MarkupSafe MouseInfo numpy pandas pillow pip PyAudio PyAutoGUI PyGetWindow PyMsgBox pyperclip pypiwin32 PyRect PyScreeze python-dateutil python-dotenv pyttsx3 pytweening pytz pywin32 requests scipy setuptools six soupsieve SpeechRecognition typing_extensions tzdata urllib3 Werkzeug wheel wikipedia Wikipedia-API
+pip install beautifulsoup4 blinker certifi charset-normalizer click colorama comtypes Flask Flask-Cors idna imagetk itsdangerous Jinja2 MarkupSafe MouseInfo numpy pandas pillow pip PyAudio PyAutoGUI PyGetWindow PyMsgBox pyperclip pypiwin32 PyRect PyScreeze python-dateutil python-dotenv pyttsx3 pytweening pytz pywin32 requests scipy setuptools six soupsieve SpeechRecognition typing_extensions tzdata urllib3 Werkzeug wheel wikipedia-api
+
 ```
 
 Once the installation is complete, you can run your Panda Virtual Assistant on the local server:
