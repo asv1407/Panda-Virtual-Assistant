@@ -33,6 +33,7 @@ pytweening
 pytz
 requests
 scipy
+portaudio
 setuptools
 six
 soupsieve
