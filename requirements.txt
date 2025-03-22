@@ -22,7 +22,6 @@ PyAutoGUI
 PyGetWindow
 PyMsgBox
 pyperclip
-pypiwin32
 PyRect
 PyScreeze
 python-dateutil
@@ -30,7 +29,6 @@ python-dotenv
 pyttsx3
 pytweening
 pytz
-pywin32
 requests
 scipy
 setuptools
