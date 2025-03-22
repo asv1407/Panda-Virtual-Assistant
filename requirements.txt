@@ -1,5 +1,4 @@
 Cython
-python3-tk
 beautifulsoup4
 blinker
 certifi
@@ -16,7 +15,7 @@ MarkupSafe
 MouseInfo
 numpy
 pandas
-pillow
+Pillow
 pip
 PyAudio
 PyAutoGUI
@@ -44,5 +43,5 @@ urllib3
 Werkzeug
 wheel
 wikipedia
-Wikipedia-API
+wikipedia-api
 gunicorn
