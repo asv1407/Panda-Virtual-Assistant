@@ -1,4 +1,4 @@
-Cython
+cython
 beautifulsoup4
 blinker
 certifi
