@@ -19,7 +19,7 @@ numpy
 pandas
 Pillow
 pip
-PyAudio
+
 PyAutoGUI
 PyGetWindow
 PyMsgBox
