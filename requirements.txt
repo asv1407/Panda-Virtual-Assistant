@@ -7,6 +7,7 @@ click
 colorama
 comtypes
 Flask
+pyaudio.whl
 Flask-Cors
 idna
 itsdangerous
