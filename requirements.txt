@@ -7,7 +7,8 @@ click
 colorama
 comtypes
 Flask
-pyaudio.whl
+sounddevice 
+speechrecognition
 Flask-Cors
 idna
 itsdangerous
