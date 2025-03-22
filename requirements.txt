@@ -1,4 +1,5 @@
-cython
+Cython
+python3-tk
 beautifulsoup4
 blinker
 certifi
@@ -9,7 +10,6 @@ comtypes
 Flask
 Flask-Cors
 idna
-imagetk
 itsdangerous
 Jinja2
 MarkupSafe
